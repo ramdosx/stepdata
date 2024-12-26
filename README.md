@@ -1,5 +1,6 @@
-![SQLite Version](https://img.shields.io/badge/python-green)
-![Python Version](https://img.shields.io/badge/postgres-blue)
+![SQLite Version](https://img.shields.io/badge/data-engineering-pink)
+![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![Python Version](https://img.shields.io/badge/postgres-SQL-blue)
 
 Git Flow — это набор правил для работы с Git, который помогает команде разработчиков эффективно сотрудничать над проектом. Представь, что Git Flow — это план, который говорит, кто чем занимается и как добавлять новые функции в интернет-магазин.
 
